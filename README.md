@@ -6,3 +6,6 @@ Finally, with a usable dataset, a number of machine learning techniques were use
 
 # Brief
 This dataset contains the house sales record in Brooklyn, New York City, from 2003 to 2017. It is a combination of NYC Rolling Sales from the NYC Department of Finance and the PLUTO for roughly 30,000 properties, which we have then merged into a single .csv file. Candidates are required to predict the property sale prices using only the data provided
+
+**NB: The train and test datasets are too large to upload. They can be downloaded at the link below:**
+https://www.kaggle.com/tianhwu/brooklynhomes2003to2017
